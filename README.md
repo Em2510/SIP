@@ -1,0 +1,2 @@
+# SIP
+QGIS2web
